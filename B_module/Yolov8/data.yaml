@@ -1,0 +1,14 @@
+train: ../all/images/train/
+val:  ../all/images/val/
+test: ../all/images/test/
+
+# number of classes
+nc: 6
+
+# class names
+names: ["D00",
+        "D10",
+        "D20",
+        "D40",
+        "Block crack",
+"Repair"]
