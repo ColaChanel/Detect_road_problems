@@ -1,2 +1,2 @@
 # Detect_road_problems
- My interesting project)
+ project for wsr Neural Network, but only small part, because of the rules of WSR
